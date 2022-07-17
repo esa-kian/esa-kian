@@ -24,7 +24,7 @@ e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://thumbs.gfycat.com/DependableLimitedHedgehog-size_restricted.gif />
+<img align="right" height="270px" alt="GIF" src="https://thumbs.gfycat.com/DependableLimitedHedgehog-size_restricted.gif" />
 
 ### I am a Back-end developer;
 - 🌱 I’m currently mastering PHP.
