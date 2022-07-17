@@ -61,10 +61,4 @@ e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
 <a href="http://www.github.com/ehsanamd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanamd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br>
 
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-[twitter]: https://twitter.com/ehsan_amd72
-[linkedin]: https://www.linkedin.com/in/ehsan-amd72/
 
