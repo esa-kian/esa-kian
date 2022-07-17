@@ -1,4 +1,6 @@
+<center>
 [![Matrix SVG](http://25.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gif)](https://t.me/philosopher_coder) 
+</center>
 <p>
   <h1 align="center"><b>Hey folks, I'm Ehsan 👋</b></h1>
 </p>
@@ -19,7 +21,6 @@ e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
 <br>
 <a href="https://www.linkedin.com/in/ehsan-amd72"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:eahmadikian@gmail.com?subject=Hello, Ehsan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://t.me/philosopher_coder"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telegram_alternative_logo.svg" alt="Telegram" /></a>&nbsp;
 </p>
 
 <br>
