@@ -27,12 +27,9 @@ e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
 <img align="right" height="270px" alt="GIF" src="https://thumbs.gfycat.com/DependableLimitedHedgehog-size_restricted.gif" />
 
 ### I am a Back-end developer;
-- 🌱 I’m currently mastering PHP.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 🌱 I have been learning PHP since 2015.
 - 🥅 2022 Goals: Immigration to Finland
-- 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the boundaries!
 - ⚡ Tell me the best book you have read.
 
 <br>
