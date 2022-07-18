@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  +<b>homosapien@evolution</b>
+  ![#c5f015]<b>homosapien@evolution</b>
   :~$ <span>sha256sum
 A programmer that wanted to become a philosopher.
     <br>
