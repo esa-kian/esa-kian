@@ -5,12 +5,12 @@
 </p>
 
 <p>
-  <h4 align="left"><b>
-    homosapien@evolution:~$ </b>sha256sum
+  <b>
+    homosapien@evolution:~$ </b><span>sha256sum
 A programmer that wanted to become a philosopher.
     <br>
 e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
-    </h4>
+    <span>
 </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ehsanamd/count.svg" />
