@@ -5,13 +5,13 @@
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
 
-<p style="font-family: 'Roboto';">
-  <b>homosapien@evolution</b>
-  :~$ <span>sha256sum
+<p>
+  <b>```homosapien@evolution```</b>
+  :~$ <span>```sha256sum```
   <br>
-A programmer that wanted to become a philosopher.
+```A programmer that wanted to become a philosopher.```
     <br>
-e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
+```e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9```
     <span>
 </p>
 <p align="center">
