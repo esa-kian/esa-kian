@@ -29,7 +29,7 @@ e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
 
 ### I'm a Software Engineer;
 - 👨🏻‍💻 I have been learning PHP since 2015.
-- 🇫🇮 2022 Goal: Immigration to Finland
+- 🎯 2023 Goal: Learn a new programming language and Finnish
 - 📚 Tell me the best book you have read.
 
 <br>
