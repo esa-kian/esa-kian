@@ -5,7 +5,7 @@
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
 
-<p style="font-family: 'monospace';">
+<p style="font-family: 'Roboto';">
   <b>homosapien@evolution</b>
   :~$ <span>sha256sum
   <br>
