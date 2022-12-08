@@ -12,7 +12,7 @@
    ```
     
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ehsanamd/count.svg" />
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ehsan-a-kian/count.svg" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### I'm a Software Engineer;
 - 👨🏻‍💻 I have been learning PHP since 2015.
-- 🎯 2023 Goal: Learn a new programming language and Finnish
+- 🎯 2023 Goal: Learn Golang and Finnish 
 - 📚 Tell me the best book you have read.
 
 <br>
@@ -50,13 +50,13 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ehsanamd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ehsan's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ehsan-a-kian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ehsan's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanamd&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-a-kian&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
 
 
 <br>
-<a href="http://www.github.com/ehsanamd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanamd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ehsan-a-kian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsan-a-kian&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br>
 
 
