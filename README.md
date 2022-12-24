@@ -28,7 +28,11 @@
 
 ### I'm a Software Engineer;
 - 👨🏻‍💻 I have been learning PHP since 2015.
-- 🎯 2023 Goal: Learn Golang and Finnish 
+- 🎯 2023 Goal: 
+    1- Learning Golang and Finnish 
+    2- Stop Smoking
+    3- Regular Exercise
+    4- Software Engineering Enhancement
 - 📚 Tell me the best book you have read.
 
 <br>
