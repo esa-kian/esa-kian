@@ -4,29 +4,17 @@
 <p>
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
-
-   ```
-      homosapien@evolution:~$ sha256sum
-      A programmer that wanted to become a philosopher.
-      e9ad22755b9cdeab92e250aa83e53b1e48dcc9f06f0ceff5210fe49f210731b9
-   ```
     
 <p align="center">
+    Visitors:
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ehsan-a-kian/count.svg" />
 </p>
 
 <p align="center">
   
 <br>
-<a href="https://www.linkedin.com/in/ehsan-amd72"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:eahmadikian@gmail.com?subject=Hello, Ehsan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://thumbs.gfycat.com/DependableLimitedHedgehog-size_restricted.gif" />
-
-### I'm a Software Engineer;
+### I'm a Software Engineer, and also a Free Software Movement Activist;
 - 👨🏻‍💻 I have been learning PHP since 2015.
 - 🎯 2023 Goal: 
   <br>  1- Learning Golang and Finnish 
@@ -45,7 +33,7 @@
 <img align="left" alt="Postgresql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
+<img align="left" alt="GO" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <br>
 <br>
 <br>
