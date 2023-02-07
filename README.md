@@ -1,6 +1,9 @@
 <p align="center">
     <img align="center" alt="matrix" src="http://25.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gif" />
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehsan-a-kian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p>
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
@@ -48,7 +51,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-a-kian&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
 
  ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ehsan-a-kian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ehsan-a-kian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <br>
