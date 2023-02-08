@@ -2,6 +2,14 @@
     <img align="center" alt="matrix" src="http://25.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gif" />
 </p>
 
+<p align="center">
+
+<a href="https://www.data-card-for-spotify.com/card?user_id=sk273w7bmu3vkdaesh22w9wi0">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=sk273w7bmu3vkdaesh22w9wi0" alt="Data Card for Spotify">
+</a>
+
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehsan-a-kian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>
