@@ -60,7 +60,7 @@
 
  ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehsan-a-kian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ehsan-a-kian&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
