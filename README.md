@@ -28,12 +28,8 @@
 ### I'm a Software Engineer, and also a Free Software Movement Activist;
 - 👨🏻‍💻 I have been learning PHP since 2015.
 - 🎯 2023 Goal: 
-  <br>  1- Learning Golang and Finnish 
-  <br>  2- Stop Smoking
-  <br>  3- Regular Exercise
-  <br>  4- Software Engineering Enhancement
-- 📚 Tell me the best book you have read.
-
+  <br>  1- Learning Golang 
+  <br>  2- Software Engineering Enhancement
 <br>
 
 ### Languages and Tools: 
