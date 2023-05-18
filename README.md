@@ -15,21 +15,15 @@
 <p>
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
-    
-<p align="center">
-    Visitors:
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ehsan-a-kian/count.svg" />
-</p>
+   
 
 <p align="center">
-  
-<br>
-
-### I'm a Software Engineer, and also a Free Software Movement Activist;
-- 👨🏻‍💻 I have been learning PHP since 2015.
-- 🎯 2023 Goal: 
-  <br>  1- Learning Golang 
-  <br>  2- Software Engineering Enhancement
+ 
+> A software engineer originally from Iran but currently based in Finland <br>
+> I'm a big fan of free and open-source software (FOSS) and an active member of the free software movement <br>
+> Collaboration, transparency, and innovation are values that I hold dear <br>
+> My focus is on creating and contributing to FOSS projects, as well as promoting their use and development <br>
+> With my solid technical skills and expertise in software development, I'm driven to make a positive impact on the world
 <br>
 
 ### Languages and Tools: 
@@ -41,6 +35,10 @@
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GO" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="Kubernetes" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Redis" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />    
 <br>
 
 <br>
