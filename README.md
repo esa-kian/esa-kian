@@ -10,8 +10,6 @@
 
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehsan-a-kian&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p>
   <h1 align="left"><b>Hi there, I'm Ehsan 👋</b></h1>
 </p>
@@ -48,11 +46,11 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ehsan-a-kian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ehsan's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-a-kian&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
-
- ## GitHub Trophies
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ehsan-a-kian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ehsan's Github Stats" width="100%">
+<br>
+<br>
+ 
+### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ehsan-a-kian&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
